@@ -1,0 +1,8 @@
+﻿  Header.c
+C:\Users\student\source\repos\Project6\Header.c(18,12): warning C4098: 'stvaranjedatoteke': 'void' function returning a value
+C:\Users\student\source\repos\Project6\Header.c(35,11): warning C4098: 'upis': 'void' function returning a value
+  Source.c
+C:\Users\student\source\repos\Project6\Source.c(21,10): warning C4129: '=': unrecognized character escape sequence
+C:\Users\student\source\repos\Project6\Source.c(28,8): warning C4013: 'upis' undefined; assuming extern returning int
+  Generating Code...
+  Project6.vcxproj -> C:\Users\student\source\repos\Project6\Debug\Project6.exe
