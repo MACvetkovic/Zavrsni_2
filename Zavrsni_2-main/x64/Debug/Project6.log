@@ -1,0 +1,11 @@
+﻿  Header.c
+C:\Users\student\Desktop\Zavrsni_2-main\Header.c(18,12): warning C4098: 'stvaranjedatoteke': 'void' function returning a value
+C:\Users\student\Desktop\Zavrsni_2-main\Header.c(40,8): warning C4477: 'scanf' : format string '%19[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\student\Desktop\Zavrsni_2-main\Header.c(96,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\student\Desktop\Zavrsni_2-main\Header.c(96,10): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'int'
+C:\Users\student\Desktop\Zavrsni_2-main\Header.c(144,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int'
+C:\Users\student\Desktop\Zavrsni_2-main\Header.c(144,10): warning C4313: 'printf': '%s' in format string conflicts with argument 2 of type 'int'
+  Source.c
+C:\Users\student\Desktop\Zavrsni_2-main\Source.c(22,10): warning C4129: '=': unrecognized character escape sequence
+  Generating Code...
+C:\Users\student\Desktop\Zavrsni_2-main\Header.c(40): error C4700: uninitialized local variable 'igrac' used

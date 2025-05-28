@@ -1,0 +1,720 @@
+﻿1
+Koji je glavni grad Francuske?
+Berlin
+Madrid
+Pariz (točan odgovor)
+C
+2
+Koji je najveći kontinent na svijetu?
+Afrika
+Azija (točan odgovor)
+Europa
+B
+3
+Koja je kemijska formula za vodu?
+H2O (točan odgovor)
+CO2
+O2
+A
+4
+Koja je najbrža životinja na svijetu?
+Gepard (točan odgovor)
+Orao
+Stršljen
+A
+5
+Koja država ima najviše stanovnika na svijetu?
+Kina (točan odgovor)
+Indija
+Sjedinjene Američke Države
+A
+6
+Tko je napisao roman "1984"?
+George Orwell (točan odgovor)
+J.K. Rowling
+Mark Twain
+A
+7
+Koja je najduža rijeka na svijetu?
+Nil (točan odgovor)
+Amazon
+Mississippi
+A
+8
+U kojem je gradu smješten Colosseum?
+Atena
+Rim (točan odgovor)
+Pariz
+B
+9
+Koji je osnovni princip rada termalne energije?
+Korištenje vjetra
+Korištenje toplinske energije (točan odgovor)
+Korištenje sunčeve energije
+B
+10
+Koji je naziv najveće planete u Sunčevom sustavu?
+Saturn
+Jupiter (točan odgovor)
+Mars
+B
+11
+Tko je bio prvi predsjednik SAD-a?
+Abraham Lincoln
+George Washington (točan odgovor)
+Thomas Jefferson
+B
+12
+Koji je glavni grad Italije?
+Madrid
+Rim (točan odgovor)
+Pariz
+B
+13
+Koja je jedinica za mjerenje mase?
+Litar
+Kilogram (točan odgovor)
+Metar
+B
+14
+Koji je najpoznatiji brend za pametne telefone?
+Samsung
+Apple (točan odgovor)
+Huawei
+B
+15
+Tko je stvorio teoriju evolucije?
+Albert Einstein
+Charles Darwin (točan odgovor)
+Isaac Newton
+B
+16
+Koji je kemijski element sa simbolom O?
+Oksigen (točan odgovor)
+Osvježivač
+Obronik
+A
+17
+Koja životinja je poznata po tome što može letjeti?
+Leteći vjeverica
+Ptice (točan odgovor)
+Žaba
+B
+18
+Koji je najviši vrh na svijetu?
+K2
+Mount Everest (točan odgovor)
+Mont Blanc
+B
+19
+Koji je naziv najbliže zvijezde Zemlji?
+Alfa Centauri
+Proxima Centauri
+Sunce (točan odgovor)
+C
+20
+Koji je službeni jezik u Brazilu?
+Španjolski
+Portugalski (točan odgovor)
+Talijanski
+B
+21
+Koji je najpoznatiji svjetski most smješten u San Franciscu?
+Brooklyn Bridge
+Golden Gate Bridge (točan odgovor)
+Tower Bridge
+B
+22
+Koja je najmanja ptica na svijetu?
+Kolibri (točan odgovor)
+Papiga
+Golub
+A
+23
+Tko je postavio temelje moderne fizike?
+Isaac Newton (točan odgovor)
+Albert Einstein
+Nikola Tesla
+A
+24
+Koja je najdublja točka u oceanu?
+Marijanski rov (točan odgovor)
+Atlantski rov
+Pacifički rov
+A
+25
+Koji je najpoznatiji francuski umjetnik i slikar koji je slikao Mona Lizu?
+Vincent van Gogh
+Pablo Picasso
+Leonardo da Vinci (točan odgovor)
+C
+26
+Koja država je domaćin Olimpijade 2020. godine?
+Rusija
+Japan (točan odgovor)
+Kina
+B
+27
+Koji je najpoznatiji svjetski sustav za pretragu interneta?
+Yahoo
+Google (točan odgovor)
+Bing
+B
+28
+Tko je otkrio Ameriku?
+Ferdinand Magellan
+Christopher Columbus (točan odgovor)
+Marco Polo
+B
+29
+Koja je nacionalna ptica SAD-a?
+Orao harpia
+Bijeli orao (točan odgovor)
+Kondor
+B
+30
+Tko je autor knjige "Harry Potter i kamen mudraca"?
+J.R.R. Tolkien
+J.K. Rowling (točan odgovor)
+C.S. Lewis
+B
+31
+Koji je glavni grad Egipta?
+Kairo (točan odgovor)
+Atena
+Casablanca
+A
+32
+Koji je simbol kemijskog elementa za zlato?
+Ag
+Au (točan odgovor)
+Fe
+B
+33
+Koji je najveći ocean na svijetu?
+Indijski ocean
+Atlantski ocean
+Tihi ocean (točan odgovor)
+C
+34
+Koja je najpoznatija piramida u Egiptu?
+Piramida u Gizi (točan odgovor)
+Piramida u Teotihuacanu
+Piramida u Meksiku
+A
+35
+Koji je najpoznatiji narodni junak u Francuskoj iz srednjeg vijeka?
+Jeanne d'Arc (točan odgovor)
+Charlemagne
+Richard Lavljeg Srca
+A
+36
+Koji je najpoznatiji grad u Italiji koji je pod vodom?
+Firenca
+Venecija (točan odgovor)
+Rim
+B
+37
+Koji je najpoznatiji srednjovjekovni vladar Rusije?
+Ivan IV. Grozni
+Vladimir Veliki (točan odgovor)
+Peter Veliki
+B
+38
+Koji je najpoznatiji grad u Španjolskoj?
+Barcelona (točan odgovor)
+Madrid
+Sevilla
+A
+39
+Koji je najpoznatiji hrvatski izumitelj?
+Nikola Tesla (točan odgovor)
+Ruđer Bošković
+Faust Vrančić
+A
+40
+Koja je najveća država na svijetu?
+Kanada
+Sjedinjene Američke Države
+Rusija (točan odgovor)
+C
+41
+Koja država je domaćin najpoznatijeg festivala piva, Oktoberfesta?
+Francuska
+Italija
+Njemačka (točan odgovor)
+C
+42
+Koji je najveći mamut ikada pronađen?
+Stepni mamut
+Kolossus mamut (točan odgovor)
+Latifundijski mamut
+B
+43
+Koji je najpoznatiji japanski animirani film?
+Spirited Away (točan odgovor)
+Akira
+My Neighbor Totoro
+A
+44
+Koji je najpoznatiji japanski grad?
+Osaka
+Kyoto
+Tokio (točan odgovor)
+C
+45
+Koji je najpoznatiji brod koji je potonuo 1912. godine?
+Lusitania
+Titanic (točan odgovor)
+Queen Mary
+B
+46
+Koja je najpoznatija američka rock grupa?
+Nirvana
+The Beatles
+The Rolling Stones (točan odgovor)
+C
+47
+Koji je glavni sastojak u guacamoleu?
+Rajčica
+Avokado (točan odgovor)
+Limun
+B
+48
+Koji je najpoznatiji američki predsjednik koji je došao iz Illinoisa?
+Thomas Jefferson
+Abraham Lincoln (točan odgovor)
+Franklin D. Roosevelt
+B
+49
+Koji je naziv najpoznatijeg francuskog muzeja?
+Louvre (točan odgovor)
+Musee d'Orsay
+Centre Pompidou
+A
+50
+Koji je najpoznatiji ruski baletan?
+Rudolf Nurejev (točan odgovor)
+Mikhail Baryshnikov
+Anna Pavlova
+A
+51
+Koja je najpoznatija film iz 1997. godine u kojem su glumili Leonardo DiCaprio i Kate Winslet?
+The Great Gatsby
+Titanic (točan odgovor)
+Inception
+B
+52
+Koji je glavni grad Austrije?
+Beč (točan odgovor)
+Graz
+Salzburg
+A
+53
+Koja je najveća životinja na svijetu?
+Slon
+Plavi kit (točan odgovor)
+Kraljevski žirafa
+B
+54
+Koji je najpoznatiji slovenski pisac?
+Ivan Cankar (točan odgovor)
+France Prešeren
+Miško Kranjec
+A
+55
+Koja je najpoznatija američka animirana serija?
+The Simpsons (točan odgovor)
+South Park
+Family Guy
+A
+56
+Koji je najpoznatiji australski pjevač?
+Kylie Minogue
+Keith Urban
+Sia (točan odgovor)
+C
+57
+Koji je najpoznatiji francuski parfem?
+Chanel No. 5 (točan odgovor)
+Dior Sauvage
+Lancôme La Vie Est Belle
+A
+58
+Koji je najpoznatiji britanski pisac?
+William Shakespeare (točan odgovor)
+Charles Dickens
+J.R.R. Tolkien
+A
+59
+Koji je najpoznatiji talijanski izumitelj i umjetnik?
+Galileo Galilei
+Leonardo da Vinci (točan odgovor)
+Michelangelo
+B
+60
+Koja je najpoznatija europska zračna luka?
+Frankfurt
+London Heathrow (točan odgovor)
+Amsterdam Schiphol
+B
+61
+Koji je glavni grad Kanade?
+Toronto
+Vancouver
+Ottawa (točan odgovor)
+C
+62
+Koji je naziv najpoznatijeg jadranskog otoka u Hrvatskoj?
+Hvar (točan odgovor)
+Krk
+Brač
+A
+63
+Koja je najpoznatija životinja u Australiji?
+Koala (točan odgovor)
+Kengur
+Tasmanijski vrag
+A
+64
+Koji je najpoznatiji australski rock bend?
+INXS
+Midnight Oil
+AC/DC (točan odgovor)
+C
+65
+Koji je najpoznatiji svjetski jezik?
+Španjolski
+Engleski (točan odgovor)
+Kineski
+B
+66
+Koji je najpoznatiji sport u Sjedinjenim Američkim Državama?
+Košarka
+Američki nogomet (točan odgovor)
+Baseball
+B
+67
+Koji je najpoznatiji svjetski brand automobila?
+Tesla
+Ferrari
+Toyota (točan odgovor)
+C
+68
+Koji je najpoznatiji restoran na svijetu?
+The French Laundry
+Noma (točan odgovor)
+El Celler de Can Roca
+B
+69
+Koji je najpoznatiji filmski režiser?
+Quentin Tarantino
+Steven Spielberg (točan odgovor)
+Martin Scorsese
+B
+70
+Koji je najpoznatiji sportski događaj na svijetu?
+Svjetsko prvenstvo u nogometu (točan odgovor)
+Olimpijske igre
+Super Bowl
+A
+71
+Koja je najpoznatija društvena mreža?
+Twitter
+Instagram
+Facebook (točan odgovor)
+C
+72
+Koji je najpoznatiji izum koji je napravio Thomas Edison?
+Telefon
+Žarulja (točan odgovor)
+Gramofon
+B
+73
+Koja država je domaćin najpoznatijeg carigradskog mosta?
+Turska (točan odgovor)
+Egipat
+Grčka
+A
+74
+Koja je najpoznatija europska rijeka?
+Seine
+Volga
+Rajna (točan odgovor)
+C
+75
+Koja je najpoznatija europska metropola?
+Madrid
+Pariz (točan odgovor)
+London
+B
+76
+Koji je najpoznatiji svjetski digitalni uređaj?
+iPhone (točan odgovor)
+Samsung Galaxy
+Huawei Mate
+A
+77
+Koja je najpoznatija hrvatska jela?
+Pizza
+Pašticada (točan odgovor)
+Sushi
+B
+78
+Koji je najpoznatiji tip mlijeka u svijetu?
+Sojino
+Kravlje (točan odgovor)
+Kokosovo
+B
+79
+Koji je najpoznatiji internetski preglednik?
+Safari
+Chrome (točan odgovor)
+Firefox
+B
+80
+Koja država je poznata po "Ladama"?
+Rusija (točan odgovor)
+Ukrajina
+Poljska
+A
+81
+Koji je najpoznatiji brod iz 20. stoljeća koji je prešao Atlantski ocean?
+Titanic (točan odgovor)
+Queen Mary
+Britannic
+A
+82
+Koja je najpoznatija vrsta pčele koja proizvodi med?
+Divlja pčela
+Medonosna pčela (točan odgovor)
+Bumblebee
+B
+83
+Koji je najpoznatiji ples koji potiče iz Brazila?
+Tango
+Samba (točan odgovor)
+Salsa
+B
+84
+Koja je najpoznatija zvijezda u našoj galaksiji?
+Sirius
+Alpha Centauri
+Sunce (točan odgovor)
+C
+85
+Tko je izumio telefon?
+Nikola Tesla
+Thomas Edison
+Alexander Graham Bell (točan odgovor)
+C
+86
+Koja je najpoznatija raketa koja je lansirana za istraživanje svemira?
+Soyuz
+Saturn V (točan odgovor)
+Falcon 9
+B
+87
+Koja država ima najviše vulkana?
+Japan (točan odgovor)
+Italija
+Island
+A
+88
+Koji je najpoznatiji otok na Mediteranu?
+Santorini
+Ibiza
+Kreta (točan odgovor)
+C
+89
+Koji je najpoznatiji engleski nogometni klub?
+Chelsea
+Manchester United (točan odgovor)
+Arsenal
+B
+90
+Koji je najpoznatiji francuski pekarski proizvod?
+Croissant (točan odgovor)
+Baguette
+Pain de Campagne
+A
+91
+Koja je najpoznatija tehnologija koja omogućava virtualnu stvarnost?
+VR headset (točan odgovor)
+3D printer
+Augmented reality
+A
+92
+Koji je najpoznatiji američki skijaš?
+Bode Miller
+Lindsey Vonn (točan odgovor)
+Shaun White
+B
+93
+Koja je najpoznatija škola za ples u New Yorku?
+Alvin Ailey Dance Theatre
+Joffrey Ballet (točan odgovor)
+Broadway Dance Center
+B
+94
+Koji je najpoznatiji svjetski park prirode?
+Yellowstone (točan odgovor)
+Grand Canyon
+Yosemite
+A
+95
+Koji je najpoznatiji kamen temeljac u Britaniji?
+Stonehenge (točan odgovor)
+Big Ben
+Hadrian's Wall
+A
+96
+Koji je najpoznatiji engleski pisac iz 19. stoljeća?
+Charles Dickens (točan odgovor)
+Mark Twain
+Jane Austen
+A
+97
+Koji je najpoznatiji kineski festival?
+Mid-Autumn Festival
+Chinese New Year (točan odgovor)
+Lantern Festival
+B
+98
+Koji je najpoznatiji otok u Tihom oceanu?
+Fiji
+Bora Bora (točan odgovor)
+Tahiti
+B
+99
+Koji je najpoznatiji povijesni događaj koji se dogodio 1776. godine?
+Američka revolucija (točan odgovor)
+Napoleonova pobjeda
+Bitka kod Waterloo
+A
+100
+Koji je najpoznatiji planinski lanac u svijetu?
+Alpe (točan odgovor)
+Himalaje
+Pireneji
+A
+101
+Koji je najpoznatiji američki predsjednik iz 20. stoljeća?
+Franklin D. Roosevelt (točan odgovor)
+John F. Kennedy
+Theodore Roosevelt
+A
+102
+Koji je najpoznatiji kanal u Engleskoj?
+Panama Canal
+English Channel (točan odgovor)
+Suez Canal
+B
+103
+Koji je najpoznatiji tok rijeke u Africi?
+Niger
+Nil (točan odgovor)
+Zambezi
+B
+104
+Koji je najpoznatiji svjetski modni brand?
+Gucci
+Louis Vuitton (točan odgovor)
+Chanel
+B
+105
+Koji je najpoznatiji svjetski fudbaler svih vremena?
+Lionel Messi
+Cristiano Ronaldo
+Pelé (točan odgovor)
+C
+106
+Koja je najpoznatija zrakoplovna tvrtka u svijetu?
+Delta Airlines
+Emirates (točan odgovor)
+Lufthansa
+B
+107
+Koji je najpoznatiji tip kave na svijetu?
+Espresso (točan odgovor)
+Latte
+Cappuccino
+A
+108
+Koji je najpoznatiji engleski nogometni menadžer?
+Sir Alex Ferguson (točan odgovor)
+Arsène Wenger
+José Mourinho
+A
+109
+Koji je najpoznatiji sport na Olimpijadi?
+Plivanje
+Atletika (točan odgovor)
+Košarka
+B
+110
+Koji je najpoznatiji francuski pjevač?
+Edith Piaf (točan odgovor)
+Charles Aznavour
+Johnny Hallyday
+A
+111
+Koji je najpoznatiji japanski izum?
+Trenin
+Automobil
+Kamera (točan odgovor)
+C
+112
+Koji je najpoznatiji povijesni spomenik u Indiji?
+Tadž Mahal (točan odgovor)
+Kolkata
+Red Fort
+A
+113
+Koji je najpoznatiji američki film?
+Gone With the Wind
+Titanic
+The Godfather (točan odgovor)
+C
+114
+Koji je najpoznatiji indijski festival?
+Holi (točan odgovor)
+Diwali
+Eid
+A
+115
+Koji je najpoznatiji njemački automobil?
+BMW
+Audi (točan odgovor)
+Volkswagen
+B
+116
+Koja je najpoznatija slika na svijetu?
+Mona Lisa (točan odgovor)
+The Starry Night
+The Scream
+A
+117
+Koja je najpoznatija zvijezda na nebu?
+Polaris
+Sirius
+Vega (točan odgovor)
+C
+118
+Koji je najpoznatiji američki superheroj?
+Superman
+Spider-Man
+Batman (točan odgovor)
+C
+119
+Koji je najpoznatiji turski grad?
+Istanbul (točan odgovor)
+Ankara
+Izmir
+A
+120
+Koji je najpoznatiji jadranski grad u Hrvatskoj?
+Split (točan odgovor)
+Dubrovnik
+Rijeka
+A
