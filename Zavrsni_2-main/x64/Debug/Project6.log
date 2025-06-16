@@ -1,0 +1,10 @@
+﻿  Header.c
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Header.c(73,8): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Header.c(164,10): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Header.c(197,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Source.c
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Source.c(18,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Source.c(21,10): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Source.c(34,10): warning C4129: '=': unrecognized character escape sequence
+  Generating Code...
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Header.c(27): error C4700: uninitialized local variable 'igrac' used
